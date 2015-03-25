@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2B30E54C-3E06-4C9F-9A38-237222B55DFB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TextViewCalculateLength</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6B4511CFD5B6F71E1AEE1C16885D06801B4B5F9E</key>
+		<string>https://github.com/pclion/TextViewCalculateLength.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TextViewCalculateLength/TextViewCalculateLength.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6B4511CFD5B6F71E1AEE1C16885D06801B4B5F9E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pclion/TextViewCalculateLength.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6B4511CFD5B6F71E1AEE1C16885D06801B4B5F9E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6B4511CFD5B6F71E1AEE1C16885D06801B4B5F9E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TextViewCalculateLength</string>
+		</dict>
+	</array>
+</dict>
+</plist>
